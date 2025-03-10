@@ -9,6 +9,9 @@ Results display panel showing the total number of files found.<br>
 CSV export functionality to log found file details (name, location, creation date).<br>
 Optional file copying feature to move results into a designated folder<br>
 
+Usage:   python main.py<br>
+
+
 Output & Functionality<br>
 The app creates a CSV file with found file details.<br>
 If enabled, files are copied to a new folder within the working directory.<br>
