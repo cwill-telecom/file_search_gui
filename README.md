@@ -9,7 +9,7 @@ CSV export functionality to log found file details (name, location, creation dat
 Optional file copying feature to move results into a designated folder<br>
 
 ```bash
-python main.py
+python gui_filesearch.py
 
 ```
 
