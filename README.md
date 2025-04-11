@@ -8,7 +8,11 @@ Results display panel showing the total number of files found.<br>
 CSV export functionality to log found file details (name, location, creation date).<br>
 Optional file copying feature to move results into a designated folder<br>
 
-Usage:   python main.py<br>
+```bash
+python main.py
+
+```
+
 
 
 Output & Functionality<br>
